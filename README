@@ -1,0 +1,22 @@
+========================================================================
+=  README for ex12: four_in_a_row.py, communicator.py, game.py, ai.py  =
+========================================================================
+
+
+==================
+=  Description:  =
+==================
+Exercise Goal:
+ Creating a GUI for a game, with an option for AI gameplay, while setting a
+ Server and a Client and establishing communication between two computers.
+
+
+======================
+=  Special Comments  =
+======================
+
+The GUI makes use of graphics created especially for it. In order the run the
+game properly, the attached folder "graphics" MUST be located at the same
+folder with the "four_in_a_row.py" file.
+
+~ We used stackoverflow.com to learn about GUI and communication.
